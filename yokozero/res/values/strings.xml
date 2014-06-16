@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">横手市交通事故危険マップ（仮）</string>
+    <string name="title_section1">交通危険箇所</string>
+    <string name="title_section2">AED設置場所</string>
+
+    <string name="menu_opendata">Open Data</string>
+    <string name="menu_oss">OSS Licenses</string>
+    <string name="menu_about">About</string>
+</resources>
